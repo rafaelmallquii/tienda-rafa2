@@ -1,4 +1,4 @@
-import Layout2 from '@/packages/components/@index/Layout2'
+import Layout2 from '@/packages/components/@index/LayoutNav'
 import '@/styles/globals.css'
 
 export default function App({ Component, pageProps }) {

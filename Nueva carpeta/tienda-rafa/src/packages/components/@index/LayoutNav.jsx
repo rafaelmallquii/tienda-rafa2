@@ -3,7 +3,7 @@ import Modal from "../@core/Modal";
 import { IoMdClose } from "react-icons/io";
 import { useState } from "react";
 
-export default function Layout2() {
+export default function LayoutNav() {
   const [openModal, setOpenModal] = useState(false);
   return (
     <div>
